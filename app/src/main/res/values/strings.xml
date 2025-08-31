@@ -1,0 +1,123 @@
+<resources>
+    <string name="app_name">30 дней тренировок</string>
+    <string name="day_name">День</string>
+    <!-- День 1 -->
+    <string name="title1">Начинаем путь!</string>
+    <string name="description1">Легкая прогулка для разминки и подготовки тела к нагрузкам. 20 минут в бодром темпе.</string>
+
+    <!-- День 2 -->
+    <string name="title2">База всего</string>
+    <string name="description2">Первая круговая тренировка на всё тело: приседания, отжимания, пресс и планка.</string>
+
+    <!-- День 3 -->
+    <string name="title3">Гибкость и восстановление</string>
+    <string name="description3">Активное восстановление — 15-минутная комплексная растяжка всех групп мышц.</string>
+
+    <!-- День 4 -->
+    <string name="title4">Закрепляем результат</string>
+    <string name="description4">Увеличиваем количество повторений в круговой тренировке. Становится легче!</string>
+
+    <!-- День 5 -->
+    <string name="title5">День отдыха</string>
+    <string name="description5">Полное восстановление сил. Можно прогуляться 30 минут в спокойном темпе.</string>
+
+    <!-- День 6 -->
+    <string name="title6">Новые движения</string>
+    <string name="description6">Добавляем выпады и подъемы ног. Увеличиваем время планки. 4 круга.</string>
+
+    <!-- День 7 -->
+    <string name="title7">Завершаем неделю</string>
+    <string name="description7">Полный день отдыха. Гордись собой — первая неделя пройдена!</string>
+
+    <!-- День 8 -->
+    <string name="title8">Кардио-день</string>
+    <string name="description8">Увеличиваем кардио-нагрузку: 25 минут быстрой ходьбы или езды на велосипеде.</string>
+
+    <!-- День 9 -->
+    <string name="title9">Спина и пресс</string>
+    <string name="description9">Фокус на верх тела и кор: отжимания, тяги, русские скручивания и планка.</string>
+
+    <!-- День 10 -->
+    <string name="title10">Йога и баланс</string>
+    <string name="description10">20 минут йоги или глубокой статической растяжки для улучшения гибкости.</string>
+
+    <!-- День 11 -->
+    <string name="title11">День ног</string>
+    <string name="description11">Силовая тренировка для низа тела: приседания с паузой, выпады, ягодичный мостик.</string>
+
+    <!-- День 12 -->
+    <string name="title12">Выходной</string>
+    <string name="description12">Отдых и накопление энергии для более интенсивных тренировок впереди.</string>
+
+    <!-- День 13 -->
+    <string name="title13">Время HIIT</string>
+    <string name="description13">Короткая интервальная тренировка для начинающих. 30 сек работы / 60 сек отдыха.</string>
+
+    <!-- День 14 -->
+    <string name="title14">Отдых перед боем</string>
+    <string name="description14">Полный отдых. Ты отлично справляешься! Завтра начинается новая неделя.</string>
+
+    <!-- День 15 -->
+    <string name="title15">Лестница к успеху</string>
+    <string name="description15">Кардио с уклоном: 20 минут быстрой ходьбы или подъема по лестнице.</string>
+
+    <!-- День 16 -->
+    <string name="title16">Выносливость</string>
+    <string name="description16">5 кругов на всё тело. Увеличиваем нагрузку и сокращаем время отдыха.</string>
+
+    <!-- День 17 -->
+    <string name="title17">Работа с массажем</string>
+    <string name="description17">Растяжка с роликом (foam roller) для снятия мышечного напряжения и забитости.</string>
+
+    <!-- День 18 -->
+    <string name="title18">Табата-челлендж</string>
+    <string name="description18">Классическая табата: 20 секунд работы / 10 секунд отдыха. 8 раундов.</string>
+
+    <!-- День 19 -->
+    <string name="title19">Зарядка для души</string>
+    <string name="description19">День отдыха. Ментальное восстановление так же важно, как и физическое.</string>
+
+    <!-- День 20 -->
+    <string name="title20">Максимум усилий</string>
+    <string name="description20">Тест на силовую выносливость: максимальное количество повторений за 5 минут.</string>
+
+    <!-- День 21 -->
+    <string name="title21">Перезагрузка</string>
+    <string name="description21">Полный отдых. Ты прошел уже 3 недели! Это огромное достижение.</string>
+
+    <!-- День 22 -->
+    <string name="title22">Кардио-марафон</string>
+    <string name="description22">30 минут непрерывного кардио на свой выбор: бег, велосипед, плавание.</string>
+
+    <!-- День 23 -->
+    <string name="title23">Сильный верх</string>
+    <string name="description23">Интенсивная тренировка на верх тела и пресс. 4 круга.</string>
+
+    <!-- День 24 -->
+    <string name="title24">Активное восстановление</string>
+    <string name="description24">Легкая прогулка и хорошая растяжка для подготовки к финальному рывку.</string>
+
+    <!-- День 25 -->
+    <string name="title25">Скульптор ног</string>
+    <string name="description25">Финальная и самая интенсивная тренировка на ноги и ягодицы. 4 круга.</string>
+
+    <!-- День 26 -->
+    <string name="title26">Перед финалом</string>
+    <string name="description26">Отдых. Набирайся сил для последних тренировок. Ты почти у цели!</string>
+
+    <!-- День 27 -->
+    <string name="title27">Финальный круг</string>
+    <string name="description27">20-минутная круговая тренировка на максимальное количество кругов.</string>
+
+    <!-- День 28 -->
+    <string name="title28">Глубокая растяжка</string>
+    <string name="description28">30-минутная сессия на все группы мышц. Повышаем гибкость и расслабляемся.</string>
+
+    <!-- День 29 -->
+    <string name="title29">Любимая тренировка</string>
+    <string name="description29">Повтори ту тренировку, которая понравилась тебе больше всего за этот месяц.</string>
+
+    <!-- День 30 -->
+    <string name="title30">Финальный тест!</string>
+    <string name="description30">Повтори самую первую тренировку и почувствуй, насколько ты стал сильнее! Поздравляем!</string>
+</resources>
