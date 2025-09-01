@@ -178,3 +178,11 @@ fun AdviceAppPreview() {
         AdviceApp()
     }
 }
+
+@Preview
+@Composable
+fun AdviceAppDarkThemePreview() {
+    _30DaysOfTrainingTheme(darkTheme = true) {
+        AdviceApp()
+    }
+}
